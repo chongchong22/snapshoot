@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/jmg/Desktop/스냅슛 계산기/venv/bin/python3.11" "$0" "$@"
+'''exec' "/Users/jmg/Desktop/rental_price_calculator/venv/bin/python3.11" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
